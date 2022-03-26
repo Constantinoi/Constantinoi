@@ -1,5 +1,5 @@
 ### Olá ! me Chamo Constantino Barreto!☕
-Estou focado em me torna especialista em JAVA
+Estou focado em me torna especialista em JAVA.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantino-barreto-rr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/constantino-barreto-rr/)
